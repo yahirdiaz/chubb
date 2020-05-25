@@ -4,7 +4,7 @@ Logotipo
 
 Usuario
 Contraseña
-Submit Azul
+Submit Azul Azul
 
 
 
