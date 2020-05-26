@@ -2,7 +2,7 @@ Logotipo Grande Grande Categoria
 
 
 
-campo busqueda
+campo busqueda detallada
 Boton buscar
 Resultados
 
